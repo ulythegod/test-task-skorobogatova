@@ -1,0 +1,5 @@
+.city-name {
+    font-weight:bold;
+    color: rgb(49, 151, 116);
+    cursor: pointer;
+}
